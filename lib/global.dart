@@ -1,4 +1,4 @@
-final product = [
+final products = [
   {
     'id': '0',
     'title': 'Men\'s Nike Shoes',
@@ -12,7 +12,7 @@ final product = [
     'title': 'Addidas Shoes',
     'price': 44.52,
     'sizes': [8, 9, 10, 11],
-    'imageUrl': 'assets/images/shoes_1.png',
+    'imageUrl': 'assets/images/shoes_2.png',
     'company': 'Adidas',
   },
   {
@@ -20,7 +20,7 @@ final product = [
     'title': 'Bata Shoes',
     'price': 44.52,
     'sizes': [8, 9, 10, 11],
-    'imageUrl': 'assets/images/shoes_1.png',
+    'imageUrl': 'assets/images/shoes_3.png',
     'company': 'Bata',
   },
   {
@@ -28,18 +28,7 @@ final product = [
     'title': 'Jordan Shoes',
     'price': 44.52,
     'sizes': [8, 9, 10, 11],
-    'imageUrl': 'assets/images/shoes_1.png',
-    'company': 'Nike',
-  },
-];
-
-final carat = [
-  {
-    'id': '3',
-    'title': 'Jordan Shoes',
-    'price': 420.69,
     'imageUrl': 'assets/images/shoes_4.png',
     'company': 'Nike',
-    'size': 8,
-  }
+  },
 ];
